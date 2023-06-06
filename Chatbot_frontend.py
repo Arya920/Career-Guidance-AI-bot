@@ -144,8 +144,8 @@ st.markdown(styl, unsafe_allow_html=True)
 with response_container:
     if user_input: 
         if submit_button:
-            if user_input == "I LOVE YOU":
-                response = "I Love You Too Arya"
+            if user_input == "Who is your maker":
+                response = "GOD !!"
                 st.session_state.past.append(user_input)
                 st.session_state.generated.append(response)
                 st.text_input("Enter your input", value="", key="user_input")
