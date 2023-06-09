@@ -9,4 +9,8 @@ streamlit-option-menu==0.3.2
 nltk==3.8.1
 Pillow==9.4.0
 streamlit==1.16.0
+streamlit-card==0.0.4
+streamlit-chat==0.0.2.2
+streamlit-embedcode==0.1.2
+streamlit-extras==0.2.7
 streamlit-chat==0.0.2.2
