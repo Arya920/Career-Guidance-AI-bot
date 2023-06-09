@@ -25,13 +25,16 @@ st.set_page_config(layout="wide",page_title="Student's Career Counselling Chatbo
 
 
 # <---------------------------------------------------------- Main Header ------------------------------------------------------------------------------------->
-html_temp = """ 
-<div style ="padding:13px"> 
-<h1 style ="color:ProfHub;text-align:center;">Career <span>Coach<span></h1> 
-</div> 
-"""
-#Referance ~ "https://www.analyticsvidhya.com/blog/2020/12/deploying-machine-learning-models-using-streamlit-an-introductory-guide-to-model-deployment/"
-st.markdown(html_temp, unsafe_allow_html = True)
+st.markdown(
+    """
+    <div style="background-color: #FF8C00 ; padding: 10px">
+        <h1 style="color: brown; font-size: 48px; font-weight: bold">
+           <center> <span style="color: black; font-size: 64px">C</span>areer <span style="color: black; font-size: 64px">B</span>uddy <span style="color: black; font-size: 64px">
+        </h1>
+    </div>
+    """,
+    unsafe_allow_html=True
+)
 
 # <========================================================= Importing Data Files  ====================================================================>
 
