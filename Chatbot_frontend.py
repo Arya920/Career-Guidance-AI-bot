@@ -149,14 +149,14 @@ with response_container:
                 response = "GOD !!"
                 st.session_state.past.append(user_input)
                 st.session_state.generated.append(response)
-                st.text_input("Enter your input", value="", key="user_input")
+                #st.text_input("Enter your input", value="", key="user_input")
 
             else:
                 
                 response = generate_response(user_input)
                 st.session_state.past.append(user_input)
                 st.session_state.generated.append(response)
-                st.text_input("Enter your input", value="", key="user_input")
+                #st.text_input("Enter your input", value="", key="user_input")
         
     if st.session_state['generated']:
         for i in range(len(st.session_state['generated'])):
