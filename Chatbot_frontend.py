@@ -1,4 +1,8 @@
 # <========================================================= Importing Required Libraries & Functions =================================================>
+import nltk
+nltk.download('stopwords')
+nltk.download('punkt')
+nltk.download('wordnet')
 import streamlit as st
 from streamlit_chat import message
 from streamlit_extras.colored_header import colored_header
