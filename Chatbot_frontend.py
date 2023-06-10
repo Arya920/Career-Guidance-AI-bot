@@ -41,7 +41,7 @@ st.markdown(
 
 # <========================================================= Importing Data Files  ====================================================================>
 
-with open('intents.json', 'r') as file:
+with open('intents3.json', 'r') as file:
     intents = json.load(file)
 with open('words.pkl', 'rb') as file:
     words = pickle.load(file)
