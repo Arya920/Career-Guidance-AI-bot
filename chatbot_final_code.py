@@ -16,7 +16,7 @@ words=[]
 classes = []
 documents = []
 ignore_words = ['?', '!']
-data_file = open('intents.json').read()
+data_file = open('intents3.json').read()
 intents = json.loads(data_file)
 
 for intent in intents['intents']:
@@ -102,7 +102,7 @@ from keras.models import load_model
 model = load_model('chatbot_model.h5')
 import json
 import random
-intents = json.loads(open('intents.json').read())
+intents = json.loads(open('intents3.json').read())
 words = pickle.load(open('words.pkl','rb'))
 classes = pickle.load(open('classes.pkl','rb'))
 
