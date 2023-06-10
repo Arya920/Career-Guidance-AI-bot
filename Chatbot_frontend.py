@@ -3,6 +3,7 @@ import nltk
 nltk.download('stopwords')
 nltk.download('punkt')
 nltk.download('wordnet')
+# <========================================================= Importing Required Libraries & Functions =================================================>
 import streamlit as st
 from streamlit_chat import message
 from streamlit_extras.colored_header import colored_header
@@ -116,15 +117,10 @@ model=load_model('chatbot_model.h5')
 
 # <============================== Function for taking user prompt as input followed by producing AI generated responses ============>
 def generate_response(prompt):
-
     clean_up_sentence(prompt) # For Lemmatizing and tokenizing the new sentence
-
     bow(prompt, words, show_details=True) #
-
     predict_class(prompt,model)
-
     response = chatbot_response(prompt)
-
     return response
 #<--------------------Creating the submit button and changing it using CSS----------------------->    
 submit_button = st.button("SEND")
@@ -163,6 +159,13 @@ with response_container:
                 st.session_state.past.append(user_input)
                 st.session_state.generated.append(response)
                 st.text_input("Enter your input", value="", key="user_input")
+        
+    if st.session_state['generated']:
+        for i in range(len(st.session_state['generated'])):
+            message(st.session_state['past'][i], is_user=True, key=str(i) + '_user')
+            message(st.session_state['generated'][i], key=str(i))
+
+
         
     if st.session_state['generated']:
         for i in range(len(st.session_state['generated'])):
