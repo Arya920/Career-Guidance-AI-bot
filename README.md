@@ -1,4 +1,6 @@
 # Career Buddy - Career Guidnce AI Chatbot
+![Image Alt Text](.)
+
 
 ## Overview
 This project presents the development of a career counseling bot that utilizes Quora data to 
