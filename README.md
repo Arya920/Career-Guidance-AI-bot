@@ -1,5 +1,5 @@
 # Career Buddy - Career Guidnce AI Chatbot
-![Image Alt Text](.)
+![Image Alt Text](.https://github.com/Arya920/Career-Guidnce-AI-bot/blob/main/Chatbot.jpg)
 
 
 ## Overview
