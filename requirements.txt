@@ -1,14 +1,14 @@
-keras==2.11.0
-matplotlib-inline==0.1.6
-numpy==1.24.1
-pandas==1.5.2
-protobuf==3.19.4
-scikit-learn==1.2.0
-scipy==1.10.0
-streamlit==1.16.0
-nltk==3.8.1
-tensorflow==2.11.0
-Pillow==9.4.0
-streamlit-chat==0.0.2.2
-streamlit-extras==0.2.7
+keras
+matplotlib-inline
+numpy
+pandas
+protobuf
+scikit-learn
+scipy
+streamlit
+nltk
+tensorflow
+Pillow
+streamlit-chat
+streamlit-extras
 

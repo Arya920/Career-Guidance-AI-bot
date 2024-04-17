@@ -11,7 +11,7 @@ from keras.layers import Dense, Activation, Dropout
 from keras.optimizers import SGD
 import random
 
-h
+
 
 words=[]
 classes = []
