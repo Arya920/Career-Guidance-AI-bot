@@ -24,14 +24,6 @@ from chatbot_final_code import bow
 from chatbot_final_code import predict_class
 from chatbot_final_code import chatbot_response
 
-
-import nltk
-nltk.download('punkt')
-
-def tokenize(token):
-    return nltk.word_tokenize(token);
-tokenize("why is this not working?");
-
 # <---------------------------------------------------------- Page Configaration ----------------------------------------------------------------------------->
 im = Image.open('bot.jpg')
 st.set_page_config(layout="wide",page_title="Student's Career Counselling Chatbot",page_icon = im)
