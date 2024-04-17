@@ -132,7 +132,7 @@ model=load_model('chatbot_model.h5')
 #     response = chatbot_response(prompt)
 #     return response
 #<--------------------Creating the submit button and changing it using CSS----------------------->    
-submit_button = st.button("SEND")
+submit_button = st.button("Enter")
 styl = f"""
     <style>
         .stButton {{
