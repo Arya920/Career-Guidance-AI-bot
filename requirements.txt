@@ -11,4 +11,4 @@ tensorflow
 Pillow
 streamlit-chat
 streamlit-extras
-
+certifi
