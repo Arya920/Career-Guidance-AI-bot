@@ -12,6 +12,7 @@ from keras.optimizers import SGD
 import random
 
 
+
 words=[]
 classes = []
 documents = []

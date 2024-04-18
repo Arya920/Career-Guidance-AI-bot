@@ -1,0 +1,544 @@
+NNLDESC,ClusterTitle,PathTitle,SOCTITLE,SOCCODE,EntryWage,MeanWage
+NOW,Advanced Manufacturing,Business Operations & Sales,Customer Service Representatives,43-4051,25850,34530
+NOW,Advanced Manufacturing,Business Operations & Sales,Receptionists and Information Clerks,43-4171,21040,26600
+NOW,Advanced Manufacturing,Business Operations & Sales,"Office Clerks, General",43-9061,22440,31640
+NEXT,Advanced Manufacturing,Business Operations & Sales,First-Line Supervisors of Non-Retail Sales Workers,41-1012,49660,71560
+NEXT,Advanced Manufacturing,Business Operations & Sales,First-Line Supervisors of Office and Administrative Support Workers,43-1011,41230,56110
+NEXT,Advanced Manufacturing,Business Operations & Sales,Executive Secretaries and Executive Administrative Assistants,43-6011,44750,57460
+LATER,Advanced Manufacturing,Business Operations & Sales,General and Operations Managers,11-1021,57360,106730
+LATER,Advanced Manufacturing,Business Operations & Sales,Sales Managers,11-2022,76040,133120
+LATER,Advanced Manufacturing,Business Operations & Sales,"Sales Rep., Wholesale & Manufacturing, Technical & Scientific Products",41-4011,54250,84320
+NEXT,Advanced Manufacturing,Engineering and Maintenance,Electrical and Electronics Drafters,17-3012,43610,55370
+NEXT,Advanced Manufacturing,Engineering and Maintenance,Mechanical Drafters,17-3013,39640,51900
+NEXT,Advanced Manufacturing,Engineering and Maintenance,Civil Engineering Technicians,17-3022,39480,51060
+NEXT,Advanced Manufacturing,Engineering and Maintenance,Electrical and Electronic Engineering Technicians,17-3023,49320,62330
+NEXT,Advanced Manufacturing,Engineering and Maintenance,Industrial Engineering Technicians,17-3026,42650,61840
+NEXT,Advanced Manufacturing,Engineering and Maintenance,Mechanical Engineering Technicians,17-3027,37960,53490
+NEXT,Advanced Manufacturing,Engineering and Maintenance,Industrial Machinery Mechanics,49-9041,40560,54310
+LATER,Advanced Manufacturing,Engineering and Maintenance,Architectural and Engineering Managers,11-9041,106270,135440
+LATER,Advanced Manufacturing,Engineering and Maintenance,Civil Engineers,17-2051,61710,85090
+LATER,Advanced Manufacturing,Engineering and Maintenance,Electrical Engineers,17-2071,73490,94530
+LATER,Advanced Manufacturing,Engineering and Maintenance,Industrial Engineers,17-2112,65960,86620
+LATER,Advanced Manufacturing,Engineering and Maintenance,Mechanical Engineers,17-2141,66350,86360
+NEXT,Advanced Manufacturing,Production,Electricians,47-2111,46530,61630
+NEXT,Advanced Manufacturing,Production,Sheet Metal Workers,47-2211,38160,63400
+NEXT,Advanced Manufacturing,Production,Millwrights,49-9044,38550,58140
+NEXT,Advanced Manufacturing,Production,First-Line Supervisors of Production and Operating Workers,51-1011,41920,57630
+NEXT,Advanced Manufacturing,Production,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",51-4012,39610,51140
+NEXT,Advanced Manufacturing,Production,Machinists,51-4041,32850,44660
+NEXT,Advanced Manufacturing,Production,Tool and Die Makers,51-4111,43880,58590
+LATER,Advanced Manufacturing,Production,Industrial Production Managers,11-3051,71430,101000
+NOW,Bioscience,Animal Sciences,Nonfarm Animal Caretakers,39-2021,18350,23630
+NOW,Bioscience,Animal Sciences,"Farmworkers, Farm, Ranch, and Aquacultural Animals",45-2093,20980,25970
+NEXT,Bioscience,Animal Sciences,Veterinary Technologists and Technicians,29-2056,27560,34840
+LATER,Bioscience,Animal Sciences,Veterinarians,29-1131,69360,96250
+NEXT,Bioscience,Production,Industrial Engineering Technicians,17-3026,42650,61840
+NEXT,Bioscience,Production,Mechanical Engineering Technicians,17-3027,37960,53490
+NEXT,Bioscience,Production,Industrial Machinery Mechanics,49-9041,40560,54310
+NEXT,Bioscience,Production,"Maintenance and Repair Workers, General",49-9071,27790,38140
+NEXT,Bioscience,Production,First-Line Supervisors of Production and Operating Workers,51-1011,41920,57630
+NEXT,Bioscience,Production,Machinists,51-4041,32850,44660
+NEXT,Bioscience,Production,Chemical Plant and System Operators,51-8091,57280,68280
+LATER,Bioscience,Production,Industrial Production Managers,11-3051,71430,101000
+LATER,Bioscience,Production,Industrial Engineers,17-2112,65960,86620
+LATER,Bioscience,Production,Mechanical Engineers,17-2141,66350,86360
+NOW,Bioscience,Research and Development,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",43-5111,22190,30660
+NOW,Bioscience,Research and Development,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",45-2092,20170,27370
+NEXT,Bioscience,Research and Development,Agricultural and Food Science Technicians,19-4011,29380,43330
+NEXT,Bioscience,Research and Development,Chemical Technicians,19-4031,36970,51360
+NEXT,Bioscience,Research and Development,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",45-1011,37630,48610
+LATER,Bioscience,Research and Development,Natural Sciences Managers,11-9121,63770,113730
+LATER,Bioscience,Research and Development,Chemical Engineers,17-2041,76670,104960
+LATER,Bioscience,Research and Development,Food Scientists and Technologists,19-1012,43050,69580
+LATER,Bioscience,Research and Development,Biochemists and Biophysicists,19-1021,56250,87010
+LATER,Bioscience,Research and Development,"Medical Scientists, Except Epidemiologists",19-1042,45270,63800
+LATER,Bioscience,Research and Development,Chemists,19-2031,51110,72080
+LATER,Bioscience,Research and Development,Biological Technicians,19-4021,32850,40730
+NEXT,Construction,Engineering and Quality Control,Architectural and Civil Drafters,17-3011,38670,50970
+NEXT,Construction,Engineering and Quality Control,Electrical and Electronics Drafters,17-3012,43610,55370
+NEXT,Construction,Engineering and Quality Control,Mechanical Drafters,17-3013,39640,51900
+NEXT,Construction,Engineering and Quality Control,Civil Engineering Technicians,17-3022,39480,51060
+NEXT,Construction,Engineering and Quality Control,Electrical and Electronic Engineering Technicians,17-3023,49320,62330
+NEXT,Construction,Engineering and Quality Control,Environmental Engineering Technicians,17-3025,31440,43840
+NEXT,Construction,Engineering and Quality Control,Mechanical Engineering Technicians,17-3027,37960,53490
+LATER,Construction,Engineering and Quality Control,Architectural and Engineering Managers,11-9041,106270,135440
+LATER,Construction,Engineering and Quality Control,"Architects, Except Landscape and Naval",17-1011,51990,75970
+LATER,Construction,Engineering and Quality Control,Surveyors,17-1022,42920,56180
+LATER,Construction,Engineering and Quality Control,Civil Engineers,17-2051,61710,85090
+LATER,Construction,Engineering and Quality Control,Electrical Engineers,17-2071,73490,94530
+LATER,Construction,Engineering and Quality Control,Environmental Engineers,17-2081,55490,75570
+LATER,Construction,Engineering and Quality Control,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",17-2111,65380,88870
+LATER,Construction,Engineering and Quality Control,Mechanical Engineers,17-2141,66350,86360
+NOW,Construction,Skilled Trades,Carpet Installers,47-2041,34920,50920
+NOW,Construction,Skilled Trades,Construction Laborers,47-2061,29980,45540
+NOW,Construction,Skilled Trades,"Insulation Workers, Floor, Ceiling, and Wall",47-2131,24700,39350
+NOW,Construction,Skilled Trades,Pipelayers,47-2151,37550,54850
+NOW,Construction,Skilled Trades,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",47-3011,31910,47260
+NOW,Construction,Skilled Trades,Helpers--Carpenters,47-3012,28940,36310
+NOW,Construction,Skilled Trades,Helpers--Electricians,47-3013,27680,35350
+NOW,Construction,Skilled Trades,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",47-3014,26560,40100
+NOW,Construction,Skilled Trades,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",47-3015,29520,43230
+NOW,Construction,Skilled Trades,Helpers--Roofers,47-3016,36830,47120
+NOW,Construction,Skilled Trades,"Helpers--Installation, Maintenance, and Repair Workers",49-9098,22200,29700
+NOW,Construction,Skilled Trades,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,22430,29750
+NEXT,Construction,Skilled Trades,Boilermakers,47-2011,35760,55370
+NEXT,Construction,Skilled Trades,Brickmasons and Blockmasons,47-2021,54610,63710
+NEXT,Construction,Skilled Trades,Stonemasons,47-2022,31930,46060
+NEXT,Construction,Skilled Trades,Carpenters,47-2031,37340,54370
+NEXT,Construction,Skilled Trades,Tile and Marble Setters,47-2044,31990,53490
+NEXT,Construction,Skilled Trades,Electricians,47-2111,46530,61630
+NEXT,Construction,Skilled Trades,Glaziers,47-2121,36450,52320
+NEXT,Construction,Skilled Trades,"Insulation Workers, Mechanical",47-2132,46700,58470
+NEXT,Construction,Skilled Trades,"Plumbers, Pipefitters, and Steamfitters",47-2152,44010,63500
+NEXT,Construction,Skilled Trades,Plasterers and Stucco Masons,47-2161,30430,43640
+NEXT,Construction,Skilled Trades,Reinforcing Iron and Rebar Workers,47-2171,46320,65980
+NEXT,Construction,Skilled Trades,Sheet Metal Workers,47-2211,38160,63400
+NEXT,Construction,Skilled Trades,Structural Iron and Steel Workers,47-2221,40800,57020
+NEXT,Construction,Skilled Trades,Elevator Installers and Repairers,47-4021,56900,77200
+NEXT,Construction,Skilled Trades,"First-Line Supervisors of Mechanics, Installers, and Repairers",49-1011,44280,60630
+NEXT,Construction,Skilled Trades,"Mobile Heavy Equipment Mechanics, Except Engines",49-3042,40080,51040
+NEXT,Construction,Skilled Trades,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",49-9021,33820,46930
+NEXT,Construction,Skilled Trades,Millwrights,49-9044,38550,58140
+NEXT,Construction,Skilled Trades,Electrical Power-Line Installers and Repairers,49-9051,51690,68100
+NEXT,Construction,Skilled Trades,Telecommunications Line Installers and Repairers,49-9052,33880,48440
+NEXT,Construction,Skilled Trades,Excavating and Loading Machine and Dragline Operators,53-7032,31600,44270
+LATER,Construction,Skilled Trades,Construction Managers,11-9021,68890,99180
+LATER,Construction,Skilled Trades,Cost Estimators,13-1051,46050,65100
+LATER,Construction,Skilled Trades,Commercial and Industrial Designers,27-1021,39840,57010
+LATER,Construction,Skilled Trades,Interior Designers,27-1025,42050,63310
+NOW,Education,Administrative and Business Support Services,Customer Service Representatives,43-4051,25850,34530
+NOW,Education,Administrative and Business Support Services,"Interviewers, Except Eligibility and Loan",43-4111,24020,31990
+NOW,Education,Administrative and Business Support Services,Receptionists and Information Clerks,43-4171,21040,26600
+NOW,Education,Administrative and Business Support Services,Data Entry Keyers,43-9021,26100,30830
+NOW,Education,Administrative and Business Support Services,Word Processors and Typists,43-9022,26560,33500
+NOW,Education,Administrative and Business Support Services,"Office Clerks, General",43-9061,22440,31640
+NOW,Education,Administrative and Business Support Services,"Office & Administrative Support Workers, All Other",43-9199,31740,37900
+NEXT,Education,Administrative and Business Support Services,Web Developers,15-1134,40600,59210
+NEXT,Education,Administrative and Business Support Services,Computer User Support Specialists,15-1151,34390,46570
+NEXT,Education,Administrative and Business Support Services,Computer Network Support Specialists,15-1152,40750,55100
+NEXT,Education,Administrative and Business Support Services,First-Line Supervisors of Office and Administrative Support Workers,43-1011,41230,56110
+NEXT,Education,Administrative and Business Support Services,"Bookkeeping, Accounting, and Auditing Clerks",43-3031,28720,37800
+NEXT,Education,Administrative and Business Support Services,"Human Resources Assistants, Except Payroll and Timekeeping",43-4161,33250,40420
+NEXT,Education,Administrative and Business Support Services,Executive Secretaries and Executive Administrative Assistants,43-6011,44750,57460
+LATER,Education,Administrative and Business Support Services,General and Operations Managers,11-1021,57360,106730
+LATER,Education,Administrative and Business Support Services,Administrative Services Managers,11-3011,62290,89270
+LATER,Education,Administrative and Business Support Services,Computer and Information Systems Managers,11-3021,97360,130240
+LATER,Education,Administrative and Business Support Services,Financial Managers,11-3031,91630,134210
+LATER,Education,Administrative and Business Support Services,Human Resources Managers,11-3121,83320,119950
+LATER,Education,Administrative and Business Support Services,Human Resources Specialists,13-1071,43630,63910
+LATER,Education,Administrative and Business Support Services,Management Analysts,13-1111,56410,78850
+LATER,Education,Administrative and Business Support Services,"Meeting, Convention, and Event Planners",13-1121,32800,48510
+LATER,Education,Administrative and Business Support Services,Fundraisers,13-1131,39770,52840
+LATER,Education,Administrative and Business Support Services,Training and Development Specialists,13-1151,40250,59880
+LATER,Education,Administrative and Business Support Services,Market Research Analysts & Marketing Specialists,13-1161,41100,64510
+LATER,Education,Administrative and Business Support Services,"Business Operations Specialists, All Other",13-1199,49600,72000
+LATER,Education,Administrative and Business Support Services,Accountants and Auditors,13-2011,48320,70180
+LATER,Education,Administrative and Business Support Services,Budget Analysts,13-2031,56930,71670
+LATER,Education,Administrative and Business Support Services,Network and Computer Systems Administrators,15-1142,60620,80280
+LATER,Education,Administrative and Business Support Services,Graphic Designers,27-1024,34810,49410
+LATER,Education,Administrative and Business Support Services,Public Relations Specialists,27-3031,40930,59360
+NOW,Education,Instruction,Childcare Workers,39-9011,18480,22850
+NEXT,Education,Instruction,"Preschool Teachers, Except Special Education",25-2011,21020,27360
+NEXT,Education,Instruction,Self-Enrichment Education Teachers,25-3021,19850,38310
+NEXT,Education,Instruction,Teacher Assistants,25-9041,19400,26220
+LATER,Education,Instruction,"Education Admin., Preschool & Childcare Center",11-9031,35510,48940
+LATER,Education,Instruction,"Education Admin., Elementary & Secondary",11-9032,72080,95080
+LATER,Education,Instruction,"Education Administrators, Postsecondary",11-9033,64290,107700
+LATER,Education,Instruction,"Computer Science Teachers, Postsecondary",25-1021,57520,85810
+LATER,Education,Instruction,"Mathematical Science Teachers, Postsecondary",25-1022,51570,88500
+LATER,Education,Instruction,"Engineering Teachers, Postsecondary",25-1032,74580,105360
+LATER,Education,Instruction,"Biological Science Teachers, Postsecondary",25-1042,58520,100660
+LATER,Education,Instruction,"Chemistry Teachers, Postsecondary",25-1052,58040,90260
+LATER,Education,Instruction,"Political Science Teachers, Postsecondary",25-1065,58390,87860
+LATER,Education,Instruction,"Psychology Teachers, Postsecondary",25-1066,54900,80410
+LATER,Education,Instruction,"Sociology Teachers, Postsecondary",25-1067,56170,90080
+LATER,Education,Instruction,"Health Specialties Teachers, Postsecondary",25-1071,83910,163280
+LATER,Education,Instruction,"Nursing Instructors and Teachers, Postsecondary",25-1072,56880,75490
+LATER,Education,Instruction,"Education Teachers, Postsecondary",25-1081,51330,75040
+LATER,Education,Instruction,"Criminal Justice and Law Enforcement Teachers, Postsecondary",25-1111,50140,74860
+LATER,Education,Instruction,"Law Teachers, Postsecondary",25-1112,58960,112020
+LATER,Education,Instruction,"Art, Drama, and Music Teachers, Postsecondary",25-1121,53830,78930
+LATER,Education,Instruction,"Communications Teachers, Postsecondary",25-1122,51820,75250
+LATER,Education,Instruction,"English Language and Literature Teachers, Postsecondary",25-1123,44510,76650
+LATER,Education,Instruction,"Foreign Language and Literature Teachers, Postsecondary",25-1124,49640,76480
+LATER,Education,Instruction,"History Teachers, Postsecondary",25-1125,53250,79040
+LATER,Education,Instruction,"Philosophy and Religion Teachers, Postsecondary",25-1126,45050,70890
+LATER,Education,Instruction,Graduate Teaching Assistants,25-1191,19200,32680
+LATER,Education,Instruction,"Recreation & Fitness Studies Teachers, Postsec.",25-1193,54160,91490
+LATER,Education,Instruction,"Vocational Education Teachers, Postsecondary",25-1194,34510,49940
+LATER,Education,Instruction,"Kindergarten Teachers, Except Special Education",25-2012,41700,52700
+LATER,Education,Instruction,"Elementary School Teachers, Except Special Ed.",25-2021,38830,52700
+LATER,Education,Instruction,"Middle School Teachers, Except Special and Career/Technical Education",25-2022,41120,52620
+LATER,Education,Instruction,"Secondary School Teachers, Except Special and Career/Technical Education",25-2031,38600,51720
+LATER,Education,Instruction,"Career/Technical Education Teachers, Secondary School",25-2032,38110,50120
+LATER,Education,Instruction,"Special Education Teachers, Preschool",25-2051,20930,37180
+LATER,Education,Instruction,"Special Education Teachers, Kindergarten and Elementary School",25-2052,38890,53910
+LATER,Education,Instruction,"Special Education Teachers, Middle School",25-2053,40130,52630
+LATER,Education,Instruction,"Special Education Teachers, Secondary School",25-2054,36590,47250
+LATER,Education,Instruction,Adult Basic and Secondary Education and Literacy Teachers and Instructors,25-3011,36060,51300
+NOW,Education,Professional Services,"Library Assistants, Clerical",43-4121,18350,22580
+NEXT,Education,Professional Services,Library Technicians,25-4031,27550,35690
+NEXT,Education,Professional Services,Licensed Practical and Licensed Vocational Nurses,29-2061,35060,41180
+NEXT,Education,Professional Services,Occupational Therapy Assistants,31-2011,48870,57850
+NEXT,Education,Professional Services,Physical Therapist Assistants,31-2021,44210,53330
+NEXT,Education,Professional Services,Medical Assistants,31-9092,26370,31370
+LATER,Education,Professional Services,"Clinical, Counseling, and School Psychologists",19-3031,44980,64510
+LATER,Education,Professional Services,"Educational, Guidance, School, and Vocational Counselors",21-1012,36350,49610
+LATER,Education,Professional Services,"Child, Family, and School Social Workers",21-1021,31340,37050
+LATER,Education,Professional Services,Librarians,25-4021,40110,53240
+LATER,Education,Professional Services,Instructional Coordinators,25-9031,39370,56280
+LATER,Education,Professional Services,Coaches and Scouts,27-2022,19430,43050
+LATER,Education,Professional Services,Interpreters and Translators,27-3091,38430,59660
+LATER,Education,Professional Services,Occupational Therapists,29-1122,66540,77460
+LATER,Education,Professional Services,Physical Therapists,29-1123,67450,82710
+LATER,Education,Professional Services,Speech-Language Pathologists,29-1127,54370,74140
+LATER,Education,Professional Services,Registered Nurses,29-1141,50330,63300
+NOW,Education,Support Services,Security Guards,33-9032,24700,36740
+NOW,Education,Support Services,Crossing Guards,33-9091,25410,29150
+NOW,Education,Support Services,"Cooks, Institution and Cafeteria",35-2012,19200,24250
+NOW,Education,Support Services,Food Preparation Workers,35-2021,18220,21480
+NOW,Education,Support Services,"Counter Attendants, Cafeteria, Food Concession, and Coffee Shop",35-3022,17960,20180
+NOW,Education,Support Services,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,20110,25670
+NOW,Education,Support Services,Maids and Housekeeping Cleaners,37-2012,18870,22050
+NOW,Education,Support Services,Landscaping and Groundskeeping Workers,37-3011,22400,28650
+NOW,Education,Support Services,Cashiers,41-2011,17890,21250
+NOW,Education,Support Services,"Bus Drivers, School or Special Client",53-3022,21430,30280
+NEXT,Education,Support Services,Food Service Managers,11-9051,34270,49980
+NEXT,Education,Support Services,Audio and Video Equipment Technicians,27-4011,30790,41830
+NEXT,Education,Support Services,First-Line Supervisors of Food Preparation and Serving Workers,35-1012,22280,30750
+NEXT,Education,Support Services,First-Line Supervisors of Housekeeping and Janitorial Workers,37-1011,28280,38580
+NEXT,Education,Support Services,"Supervisors of Landscaping, Lawn Service & Groundskeeping Workers",37-1012,36210,47030
+NEXT,Education,Support Services,"Maintenance and Repair Workers, General",49-9071,27790,38140
+LATER,Education,Support Services,General and Operations Managers,11-1021,57360,106730
+NEXT,Energy,Engineering and Quality Control,Architectural and Civil Drafters,17-3011,38670,50970
+NEXT,Energy,Engineering and Quality Control,Electrical and Electronics Drafters,17-3012,43610,55370
+NEXT,Energy,Engineering and Quality Control,Mechanical Drafters,17-3013,39640,51900
+NEXT,Energy,Engineering and Quality Control,Civil Engineering Technicians,17-3022,39480,51060
+NEXT,Energy,Engineering and Quality Control,Electrical and Electronic Engineering Technicians,17-3023,49320,62330
+NEXT,Energy,Engineering and Quality Control,Environmental Engineering Technicians,17-3025,31440,43840
+NEXT,Energy,Engineering and Quality Control,Industrial Engineering Technicians,17-3026,42650,61840
+NEXT,Energy,Engineering and Quality Control,Mechanical Engineering Technicians,17-3027,37960,53490
+LATER,Energy,Engineering and Quality Control,Architectural and Engineering Managers,11-9041,106270,135440
+LATER,Energy,Engineering and Quality Control,Civil Engineers,17-2051,61710,85090
+LATER,Energy,Engineering and Quality Control,Electrical Engineers,17-2071,73490,94530
+LATER,Energy,Engineering and Quality Control,Environmental Engineers,17-2081,55490,75570
+LATER,Energy,Engineering and Quality Control,Industrial Engineers,17-2112,65960,86620
+LATER,Energy,Engineering and Quality Control,Mechanical Engineers,17-2141,66350,86360
+NEXT,Energy,Production,Electricians,47-2111,46530,61630
+NEXT,Energy,Production,Sheet Metal Workers,47-2211,38160,63400
+NEXT,Energy,Production,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",49-2094,39410,52870
+NEXT,Energy,Production,Industrial Machinery Mechanics,49-9041,40560,54310
+NEXT,Energy,Production,First-Line Supervisors of Production and Operating Workers,51-1011,41920,57630
+NEXT,Energy,Production,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",51-4012,39610,51140
+NEXT,Energy,Production,Machinists,51-4041,32850,44660
+NEXT,Energy,Production,Chemical Plant and System Operators,51-8091,57280,68280
+NEXT,Energy,Production,Semiconductor Processors,51-9141,27840,36300
+LATER,Energy,Production,Industrial Production Managers,11-3051,71430,101000
+LATER,Energy,Production,Occupational Health and Safety Specialists,29-9011,48330,66990
+NOW,Financial and Professional,Business Operations,Receptionists and Information Clerks,43-4171,21040,26600
+NOW,Financial and Professional,Business Operations,Data Entry Keyers,43-9021,26100,30830
+NOW,Financial and Professional,Business Operations,"Mail Clerks and Mail Machine Operators, Except Postal Service",43-9051,25250,30190
+NOW,Financial and Professional,Business Operations,"Office Clerks, General",43-9061,22440,31640
+NEXT,Financial and Professional,Business Operations,First-Line Supervisors of Office and Administrative Support Workers,43-1011,41230,56110
+NEXT,Financial and Professional,Business Operations,"Human Resources Assistants, Except Payroll and Timekeeping",43-4161,33250,40420
+NEXT,Financial and Professional,Business Operations,Executive Secretaries and Executive Administrative Assistants,43-6011,44750,57460
+LATER,Financial and Professional,Business Operations,General and Operations Managers,11-1021,57360,106730
+LATER,Financial and Professional,Business Operations,Administrative Services Managers,11-3011,62290,89270
+LATER,Financial and Professional,Business Operations,Human Resources Managers,11-3121,83320,119950
+LATER,Financial and Professional,Business Operations,Human Resources Specialists,13-1071,43630,63910
+LATER,Financial and Professional,Business Operations,Management Analysts,13-1111,56410,78850
+LATER,Financial and Professional,Business Operations,"Compensation, Benefits & Job Analysis Specialists",13-1141,48980,65480
+LATER,Financial and Professional,Business Operations,Training and Development Specialists,13-1151,40250,59880
+NOW,Financial and Professional,Financial and Insurance Services,Tellers,43-3071,21870,26250
+NOW,Financial and Professional,Financial and Insurance Services,"Financial Clerks, All Other",43-3099,31290,40210
+NEXT,Financial and Professional,Financial and Insurance Services,"Claims Adjusters, Examiners, and Investigators",13-1031,47920,64130
+NEXT,Financial and Professional,Financial and Insurance Services,"Insurance Appraisers, Auto Damage",13-1032,62940,89790
+NEXT,Financial and Professional,Financial and Insurance Services,"Bookkeeping, Accounting, and Auditing Clerks",43-3031,28720,37800
+LATER,Financial and Professional,Financial and Insurance Services,Financial Managers,11-3031,91630,134210
+LATER,Financial and Professional,Financial and Insurance Services,Accountants and Auditors,13-2011,48320,70180
+LATER,Financial and Professional,Financial and Insurance Services,Credit Analysts,13-2041,50110,76980
+LATER,Financial and Professional,Financial and Insurance Services,Financial Analysts,13-2051,61470,94930
+LATER,Financial and Professional,Financial and Insurance Services,Personal Financial Advisors,13-2052,47780,89710
+LATER,Financial and Professional,Financial and Insurance Services,Insurance Underwriters,13-2053,44670,66380
+LATER,Financial and Professional,Financial and Insurance Services,Financial Examiners,13-2061,46460,73660
+LATER,Financial and Professional,Financial and Insurance Services,Credit Counselors,13-2071,36980,53070
+LATER,Financial and Professional,Financial and Insurance Services,Loan Officers,13-2072,49480,76520
+LATER,Financial and Professional,Financial and Insurance Services,Actuaries,15-2011,64900,101140
+LATER,Financial and Professional,Financial and Insurance Services,"Securities, Commodities, and Financial Services Sales Agents",41-3031,34180,80550
+NOW,Financial and Professional,Legal Services,File Clerks,43-4071,24890,33530
+NOW,Financial and Professional,Legal Services,"Office Clerks, General",43-9061,22440,31640
+NEXT,Financial and Professional,Legal Services,Paralegals and Legal Assistants,23-2011,38730,52340
+NEXT,Financial and Professional,Legal Services,Executive Secretaries and Executive Administrative Assistants,43-6011,44750,57460
+LATER,Financial and Professional,Legal Services,Lawyers,23-1011,66650,115520
+NOW,Financial and Professional,Sales and Marketing,Telemarketers,41-9041,17980,23520
+NOW,Financial and Professional,Sales and Marketing,Customer Service Representatives,43-4051,25850,34530
+NEXT,Financial and Professional,Sales and Marketing,First-Line Supervisors of Non-Retail Sales Workers,41-1012,49660,71560
+LATER,Financial and Professional,Sales and Marketing,Advertising and Promotions Managers,11-2011,74970,122450
+LATER,Financial and Professional,Sales and Marketing,Marketing Managers,11-2021,92160,136100
+LATER,Financial and Professional,Sales and Marketing,Sales Managers,11-2022,76040,133120
+LATER,Financial and Professional,Sales and Marketing,Public Relations and Fundraising Managers,11-2031,72340,108580
+LATER,Financial and Professional,Sales and Marketing,"Meeting, Convention, and Event Planners",13-1121,32800,48510
+LATER,Financial and Professional,Sales and Marketing,Market Research Analysts & Marketing Specialists,13-1161,41100,64510
+LATER,Financial and Professional,Sales and Marketing,Graphic Designers,27-1024,34810,49410
+LATER,Financial and Professional,Sales and Marketing,Public Relations Specialists,27-3031,40930,59360
+NOW,Health Care,Business Operations,Customer Service Representatives,43-4051,25850,34530
+NOW,Health Care,Business Operations,Receptionists and Information Clerks,43-4171,21040,26600
+NOW,Health Care,Business Operations,"Office Clerks, General",43-9061,22440,31640
+NEXT,Health Care,Business Operations,Web Developers,15-1134,40600,59210
+NEXT,Health Care,Business Operations,Computer User Support Specialists,15-1151,34390,46570
+NEXT,Health Care,Business Operations,Medical Records and Health Information Technicians,29-2071,31420,41620
+NEXT,Health Care,Business Operations,Medical Transcriptionists,31-9094,26200,34390
+NEXT,Health Care,Business Operations,First-Line Supervisors of Office and Administrative Support Workers,43-1011,41230,56110
+LATER,Health Care,Business Operations,Public Relations and Fundraising Managers,11-2031,72340,108580
+LATER,Health Care,Business Operations,Administrative Services Managers,11-3011,62290,89270
+LATER,Health Care,Business Operations,Medical and Health Services Managers,11-9111,75040,106810
+LATER,Health Care,Business Operations,Accountants and Auditors,13-2011,48320,70180
+LATER,Health Care,Business Operations,Computer Systems Analysts,15-1121,65550,88110
+LATER,Health Care,Business Operations,"Software Developers, Applications",15-1132,75590,96100
+LATER,Health Care,Business Operations,Network and Computer Systems Administrators,15-1142,60620,80280
+LATER,Health Care,Business Operations,Public Relations Specialists,27-3031,40930,59360
+NOW,Health Care,Diagnostic and Therapeutic,Psychiatric Aides,31-1013,23140,27950
+NEXT,Health Care,Diagnostic and Therapeutic,Radiation Therapists,29-1124,64280,77680
+NEXT,Health Care,Diagnostic and Therapeutic,Respiratory Therapists,29-1126,45020,54760
+NEXT,Health Care,Diagnostic and Therapeutic,Dental Hygienists,29-2021,63070,69980
+NEXT,Health Care,Diagnostic and Therapeutic,Diagnostic Medical Sonographers,29-2032,57790,71730
+NEXT,Health Care,Diagnostic and Therapeutic,Radiologic Technologists,29-2034,44570,54000
+NEXT,Health Care,Diagnostic and Therapeutic,Occupational Therapy Assistants,31-2011,48870,57850
+NEXT,Health Care,Diagnostic and Therapeutic,Massage Therapists,31-9011,31450,37950
+NEXT,Health Care,Diagnostic and Therapeutic,Dental Assistants,31-9091,30510,36900
+NEXT,Health Care,Diagnostic and Therapeutic,Phlebotomists,31-9097,26570,31630
+LATER,Health Care,Diagnostic and Therapeutic,Healthcare Social Workers,21-1022,33630,45620
+LATER,Health Care,Diagnostic and Therapeutic,Mental Health and Substance Abuse Social Workers,21-1023,24740,34710
+LATER,Health Care,Diagnostic and Therapeutic,"Dentists, General",29-1021,119110,180350
+LATER,Health Care,Diagnostic and Therapeutic,Pharmacists,29-1051,112850,123610
+LATER,Health Care,Diagnostic and Therapeutic,Obstetricians and Gynecologists,29-1064,101020,219750
+LATER,Health Care,Diagnostic and Therapeutic,Psychiatrists,29-1066,153920,235180
+LATER,Health Care,Diagnostic and Therapeutic,Occupational Therapists,29-1122,66540,77460
+LATER,Health Care,Diagnostic and Therapeutic,Speech-Language Pathologists,29-1127,54370,74140
+NOW,Health Care,Patient Care,Home Health Aides,31-1011,20270,22660
+NOW,Health Care,Patient Care,Orderlies,31-1015,19210,22910
+NOW,Health Care,Patient Care,Physical Therapist Aides,31-2022,19870,26110
+NOW,Health Care,Patient Care,Personal Care Aides,39-9021,19040,21730
+NEXT,Health Care,Patient Care,Emergency Medical Technicians and Paramedics,29-2041,25140,34500
+NEXT,Health Care,Patient Care,Surgical Technologists,29-2055,34860,42720
+NEXT,Health Care,Patient Care,Licensed Practical and Licensed Vocational Nurses,29-2061,35060,41180
+NEXT,Health Care,Patient Care,Nursing Assistants,31-1014,20830,25360
+NEXT,Health Care,Patient Care,Physical Therapist Assistants,31-2021,44210,53330
+NEXT,Health Care,Patient Care,Medical Assistants,31-9092,26370,31370
+LATER,Health Care,Patient Care,Anesthesiologists,29-1061,190430,249950
+LATER,Health Care,Patient Care,Family and General Practitioners,29-1062,60340,172940
+LATER,Health Care,Patient Care,"Pediatricians, General",29-1065,124210,195800
+LATER,Health Care,Patient Care,Physician Assistants,29-1071,53200,91480
+LATER,Health Care,Patient Care,Physical Therapists,29-1123,67450,82710
+LATER,Health Care,Patient Care,Registered Nurses,29-1141,50330,63300
+LATER,Health Care,Patient Care,Nurse Anesthetists,29-1151,130320,151680
+LATER,Health Care,Patient Care,Nurse Practitioners,29-1171,84750,96490
+NOW,Hospitality,Administrative and Support Services,Security Guards,33-9032,24700,36740
+NOW,Hospitality,Administrative and Support Services,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,20110,25670
+NOW,Hospitality,Administrative and Support Services,Maids and Housekeeping Cleaners,37-2012,18870,22050
+NOW,Hospitality,Administrative and Support Services,Landscaping and Groundskeeping Workers,37-3011,22400,28650
+NOW,Hospitality,Administrative and Support Services,Customer Service Representatives,43-4051,25850,34530
+NOW,Hospitality,Administrative and Support Services,"Hotel, Motel, and Resort Desk Clerks",43-4081,18590,22080
+NOW,Hospitality,Administrative and Support Services,"Office Clerks, General",43-9061,22440,31640
+NOW,Hospitality,Administrative and Support Services,Laundry and Dry-Cleaning Workers,51-6011,18300,21660
+NEXT,Hospitality,Administrative and Support Services,Lodging Managers,11-9081,29550,45800
+NEXT,Hospitality,Administrative and Support Services,First-Line Supervisors of Housekeeping and Janitorial Workers,37-1011,28280,38580
+NEXT,Hospitality,Administrative and Support Services,"Supervisors of Landscaping, Lawn Service & Groundskeeping Workers",37-1012,36210,47030
+NEXT,Hospitality,Administrative and Support Services,First-Line Supervisors of Office and Administrative Support Workers,43-1011,41230,56110
+NEXT,Hospitality,Administrative and Support Services,"Bookkeeping, Accounting, and Auditing Clerks",43-3031,28720,37800
+NEXT,Hospitality,Administrative and Support Services,Executive Secretaries and Executive Administrative Assistants,43-6011,44750,57460
+NEXT,Hospitality,Administrative and Support Services,"Maintenance and Repair Workers, General",49-9071,27790,38140
+LATER,Hospitality,Administrative and Support Services,General and Operations Managers,11-1021,57360,106730
+LATER,Hospitality,Administrative and Support Services,Administrative Services Managers,11-3011,62290,89270
+LATER,Hospitality,Administrative and Support Services,Financial Managers,11-3031,91630,134210
+LATER,Hospitality,Administrative and Support Services,Human Resources Managers,11-3121,83320,119950
+LATER,Hospitality,Administrative and Support Services,Human Resources Specialists,13-1071,43630,63910
+LATER,Hospitality,Administrative and Support Services,Training and Development Specialists,13-1151,40250,59880
+LATER,Hospitality,Administrative and Support Services,Accountants and Auditors,13-2011,48320,70180
+NOW,Hospitality,Entertainment,"Lifeguards, Ski Patrol, and Other Recreational Protective Service",33-9092,17600,18970
+NOW,Hospitality,Entertainment,Gaming Dealers,39-3011,18530,29960
+NOW,Hospitality,Entertainment,"Ushers, Lobby Attendants, and Ticket Takers",39-3031,17630,20920
+NOW,Hospitality,Entertainment,Amusement and Recreation Attendants,39-3091,17890,21010
+NOW,Hospitality,Entertainment,Gaming Change Persons and Booth Cashiers,41-2012,21980,27500
+NEXT,Hospitality,Entertainment,Gaming Managers,11-9071,46750,63230
+NEXT,Hospitality,Entertainment,Craft Artists,27-1012,23080,27000
+NEXT,Hospitality,Entertainment,Audio and Video Equipment Technicians,27-4011,30790,41830
+NEXT,Hospitality,Entertainment,Sound Engineering Technicians,27-4014,35060,52270
+NEXT,Hospitality,Entertainment,Photographers,27-4021,21760,36970
+LATER,Hospitality,Entertainment,General and Operations Managers,11-1021,57360,106730
+LATER,Hospitality,Entertainment,"Agents & Business Mgr., Artists, Performers, Athl.",13-1011,29430,39480
+LATER,Hospitality,Entertainment,Museum Technicians and Conservators,25-4013,31510,40230
+LATER,Hospitality,Entertainment,"Fine Artists, Including Painters, Sculptors, and Illustrators",27-1013,25780,39610
+LATER,Hospitality,Entertainment,Multimedia Artists and Animators,27-1014,40820,56340
+LATER,Hospitality,Entertainment,Set and Exhibit Designers,27-1027,33620,48190
+LATER,Hospitality,Entertainment,Coaches and Scouts,27-2022,19430,43050
+LATER,Hospitality,Entertainment,Music Directors and Composers,27-2041,35260,52660
+LATER,Hospitality,Entertainment,Writers and Authors,27-3043,44110,64770
+LATER,Hospitality,Entertainment,Athletic Trainers,29-9091,38670,45720
+NOW,Hospitality,Food Service,"Cooks, Fast Food",35-2011,17660,19530
+NOW,Hospitality,Food Service,"Cooks, Institution and Cafeteria",35-2012,19200,24250
+NOW,Hospitality,Food Service,"Cooks, Short Order",35-2015,17640,20360
+NOW,Hospitality,Food Service,Food Preparation Workers,35-2021,18220,21480
+NOW,Hospitality,Food Service,Bartenders,35-3011,17970,24890
+NOW,Hospitality,Food Service,"Combined Food Preparation and Serving Workers, Including Fast Food",35-3021,17640,19990
+NOW,Hospitality,Food Service,"Counter Attendants, Cafeteria, Food Concession, and Coffee Shop",35-3022,17960,20180
+NOW,Hospitality,Food Service,Waiters and Waitresses,35-3031,17790,21110
+NOW,Hospitality,Food Service,"Food Servers, Nonrestaurant",35-3041,18070,21090
+NOW,Hospitality,Food Service,Dining Room and Cafeteria Attendants and Bartender Helpers,35-9011,17880,21330
+NOW,Hospitality,Food Service,Dishwashers,35-9021,18030,20560
+NOW,Hospitality,Food Service,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",35-9031,17880,19890
+NOW,Hospitality,Food Service,"Food Preparation and Serving Related Workers, All Other",35-9099,18700,21640
+NEXT,Hospitality,Food Service,Food Service Managers,11-9051,34270,49980
+NEXT,Hospitality,Food Service,First-Line Supervisors of Food Preparation and Serving Workers,35-1012,22280,30750
+NEXT,Hospitality,Food Service,"Cooks, Restaurant",35-2014,19530,23800
+NEXT,Hospitality,Food Service,Bakers,51-3011,19460,24420
+LATER,Hospitality,Food Service,General and Operations Managers,11-1021,57360,106730
+NOW,Hospitality,Sales and Marketing,"Media and Communication Workers, All Other",27-3099,41670,51350
+NOW,Hospitality,Sales and Marketing,Cashiers,41-2011,17890,21250
+NOW,Hospitality,Sales and Marketing,Counter and Rental Clerks,41-2021,21130,32380
+NOW,Hospitality,Sales and Marketing,Retail Salespersons,41-2031,19150,27140
+NOW,Hospitality,Sales and Marketing,Customer Service Representatives,43-4051,25850,34530
+NOW,Hospitality,Sales and Marketing,Reservation and Transportation Ticket Agents and Travel Clerks,43-4181,26750,39440
+NEXT,Hospitality,Sales and Marketing,"Property, Real Estate & Community Assoc. Mgr.",11-9141,25970,53300
+NEXT,Hospitality,Sales and Marketing,First-Line Supervisors of Retail Sales Workers,41-1011,29650,41020
+NEXT,Hospitality,Sales and Marketing,First-Line Supervisors of Non-Retail Sales Workers,41-1012,49660,71560
+LATER,Hospitality,Sales and Marketing,Advertising and Promotions Managers,11-2011,74970,122450
+LATER,Hospitality,Sales and Marketing,Marketing Managers,11-2021,92160,136100
+LATER,Hospitality,Sales and Marketing,Sales Managers,11-2022,76040,133120
+LATER,Hospitality,Sales and Marketing,Public Relations and Fundraising Managers,11-2031,72340,108580
+LATER,Hospitality,Sales and Marketing,"Meeting, Convention, and Event Planners",13-1121,32800,48510
+LATER,Hospitality,Sales and Marketing,Fundraisers,13-1131,39770,52840
+LATER,Hospitality,Sales and Marketing,Market Research Analysts & Marketing Specialists,13-1161,41100,64510
+LATER,Hospitality,Sales and Marketing,Art Directors,27-1011,66660,104760
+LATER,Hospitality,Sales and Marketing,Multimedia Artists and Animators,27-1014,40820,56340
+LATER,Hospitality,Sales and Marketing,Graphic Designers,27-1024,34810,49410
+LATER,Hospitality,Sales and Marketing,Public Relations Specialists,27-3031,40930,59360
+NEXT,Information Technology,Information Support Services,Computer User Support Specialists,15-1151,34390,46570
+NEXT,Information Technology,Information Support Services,Computer Network Support Specialists,15-1152,40750,55100
+LATER,Information Technology,Information Support Services,Computer and Information Systems Managers,11-3021,97360,130240
+LATER,Information Technology,Information Support Services,Computer Systems Analysts,15-1121,65550,88110
+LATER,Information Technology,Information Support Services,Information Security Analysts,15-1122,64060,91630
+LATER,Information Technology,Information Support Services,Network and Computer Systems Administrators,15-1142,60620,80280
+LATER,Information Technology,Information Support Services,Computer Network Architects,15-1143,77000,97120
+NEXT,Information Technology,Programming and Development,Web Developers,15-1134,40600,59210
+LATER,Information Technology,Programming and Development,Computer and Information Systems Managers,11-3021,97360,130240
+LATER,Information Technology,Programming and Development,Computer Programmers,15-1131,59760,80030
+LATER,Information Technology,Programming and Development,"Software Developers, Applications",15-1132,75590,96100
+LATER,Information Technology,Programming and Development,"Software Developers, Systems Software",15-1133,74690,96200
+LATER,Information Technology,Programming and Development,Graphic Designers,27-1024,34810,49410
+NOW,Transportation and Logistics,Procurement and Sales,Cashiers,41-2011,17890,21250
+NOW,Transportation and Logistics,Procurement and Sales,Counter and Rental Clerks,41-2021,21130,32380
+NOW,Transportation and Logistics,Procurement and Sales,Telemarketers,41-9041,17980,23520
+NOW,Transportation and Logistics,Procurement and Sales,Customer Service Representatives,43-4051,25850,34530
+NOW,Transportation and Logistics,Procurement and Sales,Driver/Sales Workers,53-3031,19010,29190
+NEXT,Transportation and Logistics,Procurement and Sales,First-Line Supervisors of Non-Retail Sales Workers,41-1012,49660,71560
+LATER,Transportation and Logistics,Procurement and Sales,Sales Managers,11-2022,76040,133120
+LATER,Transportation and Logistics,Procurement and Sales,Purchasing Managers,11-3061,105080,143470
+LATER,Transportation and Logistics,Procurement and Sales,"Sales Rep., Wholesale & Manufacturing, Technical & Scientific Products",41-4011,54250,84320
+NOW,Transportation and Logistics,Transportation,Light Truck or Delivery Services Drivers,53-3033,23410,35060
+NEXT,Transportation and Logistics,Transportation,Automotive Service Technicians and Mechanics,49-3023,30220,41900
+NEXT,Transportation and Logistics,Transportation,Bus & Truck Mechanics & Diesel Engine Specialists,49-3031,33860,43860
+NEXT,Transportation and Logistics,Transportation,Aircraft Cargo Handling Supervisors,53-1011,38580,48520
+NEXT,Transportation and Logistics,Transportation,Airfield Operations Specialists,53-2022,31530,41920
+NEXT,Transportation and Logistics,Transportation,Heavy and Tractor-Trailer Truck Drivers,53-3032,33120,43480
+NEXT,Transportation and Logistics,Transportation,Locomotive Engineers,53-4011,56750,68670
+NOW,Transportation and Logistics,Warehousing and Distribution,Order Clerks,43-4151,23780,32450
+NOW,Transportation and Logistics,Warehousing and Distribution,Cargo and Freight Agents,43-5011,35960,43970
+NOW,Transportation and Logistics,Warehousing and Distribution,"Shipping, Receiving, and Traffic Clerks",43-5071,26180,33990
+NOW,Transportation and Logistics,Warehousing and Distribution,Stock Clerks and Order Fillers,43-5081,20000,26680
+NOW,Transportation and Logistics,Warehousing and Distribution,Conveyor Operators and Tenders,53-7011,29430,35700
+NOW,Transportation and Logistics,Warehousing and Distribution,Industrial Truck and Tractor Operators,53-7051,26530,34360
+NOW,Transportation and Logistics,Warehousing and Distribution,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,22430,29750
+NOW,Transportation and Logistics,Warehousing and Distribution,"Packers and Packagers, Hand",53-7064,19620,25870
+NEXT,Transportation and Logistics,Warehousing and Distribution,"Bookkeeping, Accounting, and Auditing Clerks",43-3031,28720,37800
+LATER,Transportation and Logistics,Warehousing and Distribution,Logisticians,13-1081,54470,76570
+NEXT,Energy,Production,"Welders, Cutters, Solderers, and Brazers",51-4121,30100,38730
+NEXT,Transportation and Logistics,Transportation,"Dispatchers, Except Police, Fire, and Ambulance",43-5032,31750,43550
+NEXT,Health Care,Business Operations,Billing and Posting Clerks,43-3021,29020,35750
+NEXT,Advanced Manufacturing,Production,Structural Metal Fabricators and Fitters,51-2041,30680,37820
+NEXT,Hospitality,Administrative and Support Services,"Secretaries & Administrative Assistants, Except Legal, Medical, & Executive",43-6014,25610,33590
+NEXT,Bioscience,Production,"Mixing and Blending Machine Setters, Operators, and Tenders",51-9023,32260,41680
+NEXT,Hospitality,Sales and Marketing,Merchandise Displayers and Window Trimmers,27-1026,23180,28590
+NEXT,Transportation and Logistics,Procurement and Sales,Parts Salespersons,41-2022,21670,31750
+NEXT,Education,Professional Services,Community Health Workers,21-1094,30730,38280
+NEXT,Transportation and Logistics,Warehousing and Distribution,"Production, Planning, and Expediting Clerks",43-5061,35550,48140
+NEXT,Energy,Production,"Coil Winders, Tapers, and Finishers",51-2021,25980,34560
+NEXT,Health Care,Diagnostic and Therapeutic,Occupational Therapy Aides,31-2012,19020,28550
+NEXT,Hospitality,Sales and Marketing,"Sales Representatives, Services, All Other",41-3099,31820,52940
+NEXT,Education,Administrative and Business Support Services,Bill and Account Collectors,43-3011,25390,32820
+NEXT,Construction,Skilled Trades,Drywall and Ceiling Tile Installers,47-2081,31540,43450
+NEXT,Transportation and Logistics,Transportation,"Railroad Brake, Signal, and Switch Operators",53-4021,47360,61450
+NEXT,Financial and Professional,Financial and Insurance Services,Loan Interviewers and Clerks,43-4131,28150,38010
+NEXT,Advanced Manufacturing,Business Operations & Sales,"Secretaries & Administrative Assistants, Except Legal, Medical, & Executive",43-6014,25610,33590
+NEXT,Financial and Professional,Sales and Marketing,"Sales Representatives, Services, All Other",41-3099,31820,52940
+NEXT,Advanced Manufacturing,Production,Chemical Equipment Operators and Tenders,51-9011,29350,40680
+NEXT,Education,Professional Services,Social and Human Service Assistants,21-1093,20440,28120
+NEXT,Bioscience,Animal Sciences,"Farmers, Ranchers & Other Ag. Managers",11-9013,39680,59740
+NEXT,Health Care,Diagnostic and Therapeutic,Social and Human Service Assistants,21-1093,20440,28120
+NEXT,Energy,Production,"Computer-Controlled Machine Tool Operators, Metal and Plastic",51-4011,31740,39790
+NEXT,Hospitality,Entertainment,Dancers,27-2031,0,0
+NEXT,Advanced Manufacturing,Production,"Lathe & Turning Machine Tool Setters, Operators, & Tenders, Metal & Plastic",51-4034,29200,40400
+NEXT,Financial and Professional,Business Operations,"Secretaries & Administrative Assistants, Except Legal, Medical, & Executive",43-6014,25610,33590
+NEXT,Education,Administrative and Business Support Services,"Secretaries & Administrative Assistants, Except Legal, Medical, & Executive",43-6014,25610,33590
+NEXT,Hospitality,Food Service,"Cooks, All Other",35-2019,18740,28220
+NEXT,Advanced Manufacturing,Production,"Computer-Controlled Machine Tool Operators, Metal and Plastic",51-4011,31740,39790
+NEXT,Hospitality,Food Service,Chefs and Head Cooks,35-1011,31060,44800
+NEXT,Health Care,Diagnostic and Therapeutic,Pharmacy Technicians,29-2052,24850,30610
+NEXT,Advanced Manufacturing,Production,"Cutting, Punching & Press Machine Setters, Oper. & Tenders, Metal & Plastic",51-4031,26860,33860
+NEXT,Financial and Professional,Financial and Insurance Services,"Title Examiners, Abstractors, and Searchers",23-2093,34060,49240
+NEXT,Energy,Production,Structural Metal Fabricators and Fitters,51-2041,30680,37820
+NEXT,Financial and Professional,Legal Services,Legal Secretaries,43-6012,30480,41730
+NEXT,Transportation and Logistics,Transportation,Railroad Conductors and Yardmasters,53-4031,52730,64170
+NEXT,Bioscience,Production,Packaging and Filling Machine Operators & Tenders,51-9111,24310,32670
+NEXT,Bioscience,Animal Sciences,Veterinary Assistants & Lab. Animal Caretakers,31-9096,19770,24680
+NEXT,Financial and Professional,Sales and Marketing,New Accounts Clerks,43-4141,25570,30810
+NEXT,Bioscience,Research and Development,"Inspectors, Testers, Sorters, Samplers & Weighers",51-9061,29530,40330
+NEXT,Transportation and Logistics,Procurement and Sales,"Sales Rep., Wholesale & Manufacturing, Except Tech. & Scientific Products",41-4012,37930,63700
+NEXT,Construction,Skilled Trades,Supervisors of Construction and Extraction Workers,47-1011,51730,71550
+NEXT,Advanced Manufacturing,Business Operations & Sales,"Sales Rep., Wholesale & Manufacturing, Except Tech. & Scientific Products",41-4012,37930,63700
+NEXT,Financial and Professional,Business Operations,Payroll and Timekeeping Clerks,43-3051,29400,39250
+NEXT,Bioscience,Production,"Maintenance Workers, Machinery",49-9043,37870,46740
+NEXT,Transportation and Logistics,Procurement and Sales,Procurement Clerks,43-3061,32480,39220
+NEXT,Education,Administrative and Business Support Services,Payroll and Timekeeping Clerks,43-3051,29400,39250
+NEXT,Advanced Manufacturing,Production,"Extruding & Drawing Machine Setters, Operators, & Tenders, Metal & Plastic",51-4021,27610,34620
+NEXT,Education,Professional Services,Residential Advisors,39-9041,22220,28470
+NEXT,Construction,Skilled Trades,Operating Engineers and Other Construction Equipment Operators,47-2073,36860,54140
+NEXT,Hospitality,Administrative and Support Services,Concierges,39-6012,21250,25240
+NEXT,Transportation and Logistics,Transportation,"Trans., Storage, and Distribution Managers",11-3071,68310,96580
+NEXT,Hospitality,Entertainment,"Umpires, Referees, and Other Sports Officials",27-2023,18420,29880
+NEXT,Advanced Manufacturing,Production,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",51-9121,26750,35210
+NEXT,Advanced Manufacturing,Production,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",51-4081,27870,34440
+NEXT,Financial and Professional,Financial and Insurance Services,Brokerage Clerks,43-4011,36490,45640
+NEXT,Advanced Manufacturing,Engineering and Maintenance,"Maintenance Workers, Machinery",49-9043,37870,46740
+NEXT,Health Care,Business Operations,Medical Secretaries,43-6013,26520,33030
+NEXT,Construction,Skilled Trades,Cement Masons and Concrete Finishers,47-2051,37040,53000
+NEXT,Energy,Engineering and Quality Control,Surveying and Mapping Technicians,17-3031,32270,41460
+NEXT,Advanced Manufacturing,Production,Engine and Other Machine Assemblers,51-2031,34070,40350
+NEXT,Energy,Production,Engine and Other Machine Assemblers,51-2031,34070,40350
+NEXT,Transportation and Logistics,Transportation,Commercial Pilots,53-2012,61310,85060
+NEXT,Health Care,Diagnostic and Therapeutic,Community Health Workers,21-1094,30730,38280
+NEXT,Construction,Engineering and Quality Control,"Inspectors, Testers, Sorters, Samplers & Weighers",51-9061,29530,40330
+NEXT,Bioscience,Production,"Sep., Filtering, Clarifying, Precipitating Still Mach. Set., Oper. & Tend.",51-9012,32220,39580
+NEXT,Construction,Skilled Trades,Roofers,47-2181,32950,46110
+NEXT,Financial and Professional,Financial and Insurance Services,Tax Preparers,13-2082,24760,41020
+NEXT,Transportation and Logistics,Warehousing and Distribution,"Trans., Storage, and Distribution Managers",11-3071,68310,96580
+NEXT,Construction,Engineering and Quality Control,Construction and Building Inspectors,47-4011,41810,51400
+NEXT,Advanced Manufacturing,Production,Packaging and Filling Machine Operators & Tenders,51-9111,24310,32670
+NEXT,Energy,Engineering and Quality Control,"Inspectors, Testers, Sorters, Samplers & Weighers",51-9061,29530,40330
+NEXT,Hospitality,Entertainment,Musicians and Singers,27-2042,0,0
+NEXT,Energy,Production,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",51-4081,27870,34440
+NEXT,Advanced Manufacturing,Production,"Welders, Cutters, Solderers, and Brazers",51-4121,30100,38730
+NEXT,Hospitality,Sales and Marketing,Advertising Sales Agents,41-3011,25310,46210
+NEXT,Financial and Professional,Financial and Insurance Services,Insurance Claims and Policy Processing Clerks,43-9041,29800,41990
+NEXT,Hospitality,Entertainment,Actors,27-2011,0,0
+NEXT,Financial and Professional,Business Operations,Billing and Posting Clerks,43-3021,29020,35750
+NEXT,Financial and Professional,Financial and Insurance Services,"Credit Authorizers, Checkers, and Clerks",43-4041,29050,35720
+NEXT,Advanced Manufacturing,Production,"Grind., Lap., Polish. & Buff. Mach. Tool Set., Oper. & Tend., Met. & Plast.",51-4033,27790,37370
+NEXT,Advanced Manufacturing,Production,"Molding, Coremaking & Casting Machine Set., Oper. & Tend., Metal & Plastic",51-4072,22570,29070
+NEXT,Financial and Professional,Business Operations,Bill and Account Collectors,43-3011,25390,32820
+NEXT,Financial and Professional,Sales and Marketing,Advertising Sales Agents,41-3011,25310,46210
+NEXT,Construction,Skilled Trades,"Welders, Cutters, Solderers, and Brazers",51-4121,30100,38730
+NEXT,Bioscience,Production,Chemical Equipment Operators and Tenders,51-9011,29350,40680
+NEXT,Construction,Skilled Trades,"Painters, Construction and Maintenance",47-2141,35560,50240
+NEXT,Construction,Skilled Trades,"Paving, Surfacing, and Tamping Equipment Operators",47-2071,34520,50060
+NEXT,Advanced Manufacturing,Production,"Extruding, Forming, Pressing & Compacting Machine Setters, Oper. & Tenders",51-9041,29670,35930

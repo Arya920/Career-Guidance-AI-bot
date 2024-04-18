@@ -5,7 +5,9 @@ from streamlit_extras.colored_header import colored_header
 from streamlit_extras.add_vertical_space import add_vertical_space
 import nltk
 nltk.download('stopwords')
-nltk.download('punkt')
+
+
+nltk.download("punkt")
 nltk.download('wordnet')
 from nltk.stem import WordNetLemmatizer
 lemmatizer = WordNetLemmatizer()
@@ -17,14 +19,16 @@ from keras.models import load_model
 
 from PIL import Image
 # <-------------------------------------------------------------Functions ----------------------------------------------------------------------------------->
-from chatbot_final_code import clean_up_sentence
-from chatbot_final_code import bow
-from chatbot_final_code import predict_class
-from chatbot_final_code import chatbot_response
+# from chatbot_final_code import clean_up_sentence
+# from chatbot_final_code import bow
+# from chatbot_final_code import predict_class
+# from chatbot_final_code import chatbot_response
 
 # <---------------------------------------------------------- Page Configaration ----------------------------------------------------------------------------->
 im = Image.open('bot.jpg')
 st.set_page_config(layout="wide",page_title="Student's Career Counselling Chatbot",page_icon = im)
+
+
 
 
 # <---------------------------------------------------------- Main Header ------------------------------------------------------------------------------------->
@@ -90,8 +94,11 @@ response_container = st.container()
 
 
 #<================================================== Function for taking user provided prompt as input ================================================>
+# def pressed_enter_key(text):
+#     if text == 
+
 def get_text():
-    input_text = st.text_input("You: ",  key="input")
+    input_text = st.text_input("You: ",  key="input", on_change=None)
     return input_text
 
 styl = f"""
@@ -114,14 +121,18 @@ model=load_model('chatbot_model.h5')
 
 
 # <============================== Function for taking user prompt as input followed by producing AI generated responses ============>
-def generate_response(prompt):
-    clean_up_sentence(prompt) # For Lemmatizing and tokenizing the new sentence
-    bow(prompt, words, show_details=True) #
-    predict_class(prompt,model)
-    response = chatbot_response(prompt)
-    return response
+
+
+# TODO: Implement a data model that will make a response
+
+# def generate_response(prompt):
+#     clean_up_sentence(prompt) # For Lemmatizing and tokenizing the new sentence
+#     bow(prompt, words, show_details=True) #
+#     predict_class(prompt,model)
+#     response = chatbot_response(prompt)
+#     return response
 #<--------------------Creating the submit button and changing it using CSS----------------------->    
-submit_button = st.button("SEND")
+submit_button = st.button("Enter")
 styl = f"""
     <style>
         .stButton {{
@@ -148,12 +159,15 @@ with response_container:
             if user_input == "Who is your maker":
                 response = "GOD !!"
                 st.session_state.past.append(user_input)
+
+
+                # TODO: RENDER a response HERE
                 st.session_state.generated.append(response)
                 #st.text_input("Enter your input", value="", key="user_input")
 
             else:
                 
-                response = generate_response(user_input)
+                response = None # generate_response(user_input)
                 st.session_state.past.append(user_input)
                 st.session_state.generated.append(response)
                 #st.text_input("Enter your input", value="", key="user_input")
