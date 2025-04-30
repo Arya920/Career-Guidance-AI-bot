@@ -53,4 +53,4 @@ bash
 streamlit run Chatbot_frontend.py
  
 
-The application will open in your default web browser.
+The application will open in your default web browser
